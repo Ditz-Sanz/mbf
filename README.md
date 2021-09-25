@@ -3,16 +3,16 @@
 
 ∆ pkg install git
 
-∆ pkg install python2
+∆ pkg install python
 
-∆ pip2 install requests
+∆ pip install requests
 
-∆ pip2 install mechanize
+∆ pip install mechanize
 
-∆ pip2 install bs4
+∆ pip install bs4
 
 ∆ git clone https://github.com/ditz-sanz/mbf
 
 ∆ cd mbf
 
-∆ python2 mbf.py
+∆ python mbf.py
